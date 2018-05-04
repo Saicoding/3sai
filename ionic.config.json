@@ -1,0 +1,8 @@
+{
+  "name": "3sai",
+  "app_id": "39a92ef1",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
